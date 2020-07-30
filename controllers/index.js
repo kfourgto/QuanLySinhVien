@@ -73,3 +73,7 @@ const deteleSinhVien = function (maSV) {
 };
 
 renderSinhVien();
+
+var test = function () {
+  console.log("asdasd");
+};
